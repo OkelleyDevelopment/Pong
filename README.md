@@ -1,4 +1,4 @@
-# NCurses Pong
+# Pong
 
 ## Motivation
 
